@@ -17,7 +17,7 @@ Now let us stylesheet this calculator using CSS.
 
 We start by discarding unwanted margins and paddings from all the elements. we set the background of the *body* to a linear gradient with solid colour stops
 
-Next, we set the width of the *calculator* to 400px and centre it using transforms. we even add some box shadows to make it stand out. To make it look even sleeker, we add some paddings to it.
+Next, we set the width of the *calculator* to 375px and centre it using transforms. we even add some box shadows to make it stand out. To make it look even sleeker, we add some paddings to it.
 
 In the next step, we set width of the *display* and input element to 100%. we also use right as a value from the *text-align* property. we use the grid layout to position and arrange the buttons. We can further customize the buttons and display to suit the style.
 
