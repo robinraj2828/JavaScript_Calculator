@@ -1,3 +1,4 @@
+let equal_pressed = 0;
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
 
