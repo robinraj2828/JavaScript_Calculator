@@ -6,6 +6,7 @@ Basically The Calculator is a portable device used in our day life to perform va
 In this project we crate a **Calculator** using the *JavaScript, HTML and CSS* programming languages. The Project folder is called - **Calculator**. inside this folder, we have three files - *index.html, style.css and script.js.* They are HTML document, stylesheet and script respectively.
 
 ##HTML:
+
 we start with the HTML code.
 
 The HTML code consists of a div with a class **calculator**. inside the calculator, we have two main divs. The first is the *display* div and the second is the *buttons* div.
