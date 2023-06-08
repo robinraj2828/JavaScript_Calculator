@@ -23,3 +23,6 @@ In the next step, we set width of the *display* and input element to 100%. we al
 
 ## JavaScript:
 Now to add functionality to the calculator we will be using JavaScript.
+We start by creating a variable called *equal_pressed* which is set to zero. Every time the equal to the button is pressed, the value of the equal_pressed variable is changed to one.
+
+so once any evaluation is completed and equal to the button is pressed, the display will clear itself when the user enters a new number or operator for evaluation.
