@@ -10,7 +10,7 @@ We start with the HTML code.
 
 The HTML code consists of a div with a class **calculator**. inside the calculator, we have two main divs. The first is the *container* div and the second is the *buttons* div.
 
-The *display* div consists of an *input* element with the type text. We set the *placeholder* to zero. inside buttons, we have 18 different buttons. They are numbers from 0 to 9, *AC* and *DEL* button, 4 basic operators, an equal to button and a decimal button. For all the buttons except AC, DEL and equal we assign a class called input-button.
+The *container* div consists of an *input* element with the type text. We set the *placeholder* to zero. inside buttons, we have 18 different buttons. They are numbers from 0 to 9, *AC* and *DEL* button, 4 basic operators, an equal to button and a decimal button. For all the buttons except AC, DEL and equal we assign a class called input-button.
 
 ## CSS:
 Now let us stylesheet this calculator using CSS.
